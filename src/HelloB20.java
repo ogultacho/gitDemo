@@ -3,6 +3,7 @@ public class HelloB20 {
         System.out.println("Hello B20, it is my pleasure to be with you!");
 
 
+        System.out.println();
         //added a line
 
     }
